@@ -15,14 +15,13 @@ https://app.powerbi.com/view?r=eyJrIjoiZmZkMWFlYzAtY2RjYi00MzY5LTliZGEtMWY5YjQxZ
 
 ### Desktop View
 
-<img width="715" alt="Main View" src="https://github.com/buminduyasith/Azure-usage-workflow-dashboard/assets/25229999/759017b5-3193-40c5-804b-98bfc6482def">
-
-<img width="716" alt="report filters are working fine" src="https://github.com/buminduyasith/Azure-usage-workflow-dashboard/assets/25229999/5eb40eef-8585-4558-8b41-09e4f4f0b802">
-<img width="365" alt="Filters" src="https://github.com/buminduyasith/Azure-usage-workflow-dashboard/assets/25229999/b39e4797-4f47-4a47-89e3-82bd63ad7ed9">
+<img width="715" alt="Main View" src="https://github.com/buminduyasith/Azure-usage-workflow-dashboard/assets/25229999/a237b7af-bf47-4f71-a595-7a2c0f012d11">
+<img width="716" alt="report filters are working fine" src="https://github.com/buminduyasith/Azure-usage-workflow-dashboard/assets/25229999/5f5c0245-9265-4fd0-bfdc-7aa5c18aa92a">
+<img width="310" alt="Filters" src="https://github.com/buminduyasith/Azure-usage-workflow-dashboard/assets/25229999/ac3432c5-da2e-4c7e-867d-7205daf8871c">
 
 ### PowerBI Service View
 
-<img width="960" alt="Powerbi service view" src="https://github.com/buminduyasith/Azure-usage-workflow-dashboard/assets/25229999/635061a6-d122-487b-9ebf-182d2125e272">
+<img width="955" alt="Powerbi service view" src="https://github.com/buminduyasith/Azure-usage-workflow-dashboard/assets/25229999/573c4a3b-fdf4-4338-93a7-0de7cb739533">
 
 ### PowerBI Mobile View
 
